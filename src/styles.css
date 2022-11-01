@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+h4 {
+  padding-top: 20px;
+}
+.input-recipe {
+  width: 90%;
+  margin: auto;
+  display: block;
+  justify-content: space-evenly;
+}
+input {
+  margin-top: 10px;
+  width: 90%;
+  height: 6vh;
+  border: rgb(180, 176, 176) 0.5px solid;
+  text-align: center;
+}
+button {
+  height: 6vh;
+  width: 20%;
+  margin-top: 10px;
+  background-color: rgb(233, 231, 231);
+  border: none;
+  cursor: pointer;
+}
+.line {
+  min-height: 0.1vh;
+  background-color: #c1dbb3;
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+}
